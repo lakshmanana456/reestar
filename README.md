@@ -1,24 +1,28 @@
-Reestar 🍽️
-Reestar is a simple and clean model of a food website built using HTML, CSS, and basic frontend elements. It's designed as a static webpage structure ideal for beginners who are learning web development or prototyping a food-related website.
+# Reestar🍽️
 
-✨ Features
-Responsive Navbar – Includes navigation links for easy access.
+**Reestar** is a simple model of a food-themed website. This project is designed as a basic frontend layout to demonstrate key components typically found on a food or restaurant-related site.
 
-Image Section – Showcases food-related images or banners.
+## 🚀 Project Features
 
-Footer with Contact Form – Contains a contact form for users to submit:
+- **Simple Navbar** A clean and minimal navigation bar to guide users through the page.
 
-Name
+- **Image Section**  
+  A section dedicated to displaying food-related images, giving users a visual treat.
 
-Age
+- **Footer with Contact Form**  
+  The footer includes a contact form where users can submit their queries or feedback.
 
-Email
+## 🛠️ Built With
 
-💡 Purpose
-This project serves as a basic template for learning how to structure a food website and implement simple HTML forms and layouts. You can easily expand it into a more complex project by adding backend functionality, JavaScript interactivity, or integrating a database.
+- HTML5  
+- CSS3  
 
-🛠️ Technologies Used
-HTML5
+## 📁 Folder Structure
+Reestar/
+│
+├── index.html
+├── css/
+│ └── style.css
+└── images/(food-related images)
 
-CSS3
 
